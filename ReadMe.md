@@ -166,6 +166,8 @@ tests and also preprocessing them into the `data` branch.
   * [NimYAML](https://github.com/flyx/NimYAML)
 * Perl 5
   * [YAML::PP](https://github.com/perlpunk/YAML-PP-p5)
+* PHP
+  * [php-yaml-parser](https://github.com/maxbeckers/php-yaml-parser)
 * Scala
   * [Scala-Yaml](https://github.com/VirtusLab/scala-yaml)
 
